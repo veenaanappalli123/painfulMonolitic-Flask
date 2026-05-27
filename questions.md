@@ -104,6 +104,7 @@ tried creating an activity using nova, he is friends with 3 people, they all got
 **7.** You need to delete `maya_r`.
 In what order must you delete rows across the tables, and why does the order matter?
 
+
 ---
 
 **8.** The `notifications` table has a foreign key pointing to `activities`.
